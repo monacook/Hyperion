@@ -1,1 +1,2 @@
-phxlight.org
+RewriteCond %{HTTP_HOST} !^phxlight\.com$ [NC]
+RewriteRule ^(.*)$ http://phxlight.org/$1 [R=301,L]
