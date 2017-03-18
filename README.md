@@ -1,2 +1,2 @@
 # Hyperion
-We provide aesthetically pleasing and technologically advanced lamps to homeowners who need the Internet of Things integrated into everyday home appliances.  Unlike LED lamps sold by companies such as Room Essentials, we are adding more utility including internet connectivity, user personalization, and synchronized notifications with other devices.
+Hyperion diverges from dull lamp designs by creating innovative LED light hubs that add functionality by leveraging the Internet of Things.
